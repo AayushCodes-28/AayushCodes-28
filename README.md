@@ -3,6 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=36BCF7&center=true&vCenter=true&width=500&lines=Machine+Learning+Enthusiast;Open+Source+Contributor;Problem+Solver;Aspiring+Software+Engineer;Computer+Vision+Enthusiast" alt="Typing SVG" />
 </div>
 
+[![An image of @aayushcoderui's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aayushcoderui)](https://holopin.io/@aayushcoderui)
 ---
 
 ## 🧠 About Me
