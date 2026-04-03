@@ -8,12 +8,33 @@
 
 ## 🧠 About Me
 💻 CSE student at **Manipal Institute of Technology**  
-📊 Exploring **Machine Learning**, **DSA**, **OpenCV**, and **Computer Vision**  
-🌱 Contributor at **GirlScript Summer of Code (GSSoC)**  
-⚡ Passionate about **AI, Data Analytics, Software Development, and Computer Vision**  
+📊 Focused on **Machine Learning**, **DSA**, **OpenCV**, and **Computer Vision**  
+🌱 Experienced in building **real-time AI applications and data-driven systems**
 🤝 Always open to collaborating on impactful projects  
 
 ---
+##🚀 **Featured Projects**
+🔹 Smart AI Proctoring System
+Built a real-time AI proctoring system using **OpenCV + MediaPipe**
+Detects head pose, multiple faces, and suspicious behavior
+Designed for scalable monitoring applications
+Tech: Python, OpenCV, MediaPipe
+
+🔹 RAG-Based Question Generator
+Developed a Retrieval-Augmented Generation (RAG) system
+Generates context-aware questions using semantic search
+Built efficient backend pipelines
+Tech: NLP, SBERT, FastAPI
+
+🔹 Aadhaar Data Analysis Project
+Analyzed UIDAI datasets to extract actionable insights
+Identified demographic and regional trends
+Tech: Python, Pandas, Data Visualization
+
+🔹 Vehicle Tracking System
+Implemented real-time vehicle detection and tracking
+Applied computer vision techniques for accuracy
+Tech: Python, OpenCV
 
 ## 🛠 Tech Stack
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) 
