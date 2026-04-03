@@ -13,29 +13,6 @@
 🤝 Always open to collaborating on impactful projects  
 
 ---
-##🚀 **Featured Projects**
-🔹 Smart AI Proctoring System
-Built a real-time AI proctoring system using **OpenCV + MediaPipe**
-Detects head pose, multiple faces, and suspicious behavior
-Designed for scalable monitoring applications
-Tech: Python, OpenCV, MediaPipe
-
-🔹 RAG-Based Question Generator
-Developed a Retrieval-Augmented Generation (RAG) system
-Generates context-aware questions using semantic search
-Built efficient backend pipelines
-Tech: NLP, SBERT, FastAPI
-
-🔹 Aadhaar Data Analysis Project
-Analyzed UIDAI datasets to extract actionable insights
-Identified demographic and regional trends
-Tech: Python, Pandas, Data Visualization
-
-🔹 Vehicle Tracking System
-Implemented real-time vehicle detection and tracking
-Applied computer vision techniques for accuracy
-Tech: Python, OpenCV
-
 ## 🛠 Tech Stack
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
