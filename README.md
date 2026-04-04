@@ -52,7 +52,7 @@
 ---
 
 ## 🔥 Contribution Graph
-<a href="https://github.com/aayushcoder-ui/github-readme-activity-graph"> 
+<a href="https://github.com/AayushCodes-28/github-readme-activity-graph"> 
 <img alt="Aayush's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=AayushCodes-28&bg_color=0d1117&color=36BCF7&line=36BCF7&point=FFFFFF&area=true&hide_border=true"/> 
 </a>
 
